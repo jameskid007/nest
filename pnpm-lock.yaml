@@ -17,6 +17,9 @@ dependencies:
   cli-color:
     specifier: ^2.0.4
     version: 2.0.4
+  express:
+    specifier: ^4.19.2
+    version: 4.19.2
   express-session:
     specifier: ^1.18.0
     version: 1.18.0
