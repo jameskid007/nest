@@ -1,4 +1,4 @@
-import express from 'express'
+import express, { Express } from 'express'
 import { Logger } from './logger'
 
 export class NestApplication {

@@ -1,3 +1,4 @@
 import 'reflect-metadata'
 
-export function Controller {}
+export function Controller {
+}
