@@ -22,6 +22,8 @@
       "@nestjs/*": [
         "src/@nestjs/*"
       ]
-    }
+    },
+    "types": ["node"],
+    "moduleResolution": "Node"
   }
 }
